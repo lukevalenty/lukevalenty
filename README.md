@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Luke Valenty. I am a Firmware Architect at Intel's Chipsets Silicon Group. I am passionate about programming, science, and technology. Lately I have been focusing on modern C++ for deeply embedded systems.
+
 <!--
 **lukevalenty/lukevalenty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
