@@ -6,7 +6,7 @@ My name is Luke Valenty. I am a Firmware Architect at Intel's Chipsets Silicon G
 
 ### 2022
 - __emBO++__
-  - _THE CONSTEXPR INIT()/BUILD() PATTERN: COMPOSE MODULAR FIRMWARE WITH MINIMAL RUNTIME COST_
+  - _THE CONSTEXPR INIT()/BUILD() PATTERN: COMPOSE MODULAR FIRMWARE WITH MINIMAL RUNTIME COST_. https://youtu.be/fk0ihqOXER8
 - __C++Now__
   - _Embedded Logging Case Study: From C to Shining C++_
   - Lightning Talk: Improve compile time with one weird trick template meta programmers hate!!
