@@ -4,13 +4,20 @@ My name is Luke Valenty. I am a Firmware Architect at Intel's Chipsets Silicon G
 
 ### Conference Talks
 
+### 2023
+- __emBO++__
+  - High Performance Message Dispatch in C++. https://youtu.be/ekunE70KF7U
+- __C++Now__
+  - Composition on Tiny Embedded Systems.
+  - Lightning Talk: Safe Arithmetic Library, any% speedrun.
+
 ### 2022
 - __emBO++__
   - _THE CONSTEXPR INIT()/BUILD() PATTERN: COMPOSE MODULAR FIRMWARE WITH MINIMAL RUNTIME COST_. https://youtu.be/fk0ihqOXER8
 - __C++Now__
-  - _Embedded Logging Case Study: From C to Shining C++_
-  - Lightning Talk: Improve compile time with one weird trick template meta programmers hate!!
-  - Lightning Talk: Compile-time Build and Initialization Library Demo
+  - _Embedded Logging Case Study: From C to Shining C++_. https://youtu.be/Dt0vx-7e_B0
+  - Lightning Talk: Improve compile time with one weird trick template meta programmers hate!! https://youtu.be/qMUhJdhL2Uk
+  - Lightning Talk: Compile-time Build and Initialization Library Demo. https://youtu.be/3DUJ7Dow1vk
 
 <!--
 **lukevalenty/lukevalenty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
