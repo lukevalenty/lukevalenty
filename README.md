@@ -8,7 +8,7 @@ My name is Luke Valenty. I am a Firmware Architect at Intel's Chipsets Silicon G
 - __emBO++__
   - High Performance Message Dispatch in C++. https://youtu.be/ekunE70KF7U
 - __C++Now__
-  - Composition on Tiny Embedded Systems. https://www.youtube.com/watch?v=MhTg9Jnwmms
+  - Composition on Tiny Embedded Systems. https://youtu.be/MhTg9Jnwmms
   - Lightning Talk: Safe Arithmetic Library, any% speedrun.
 
 ### 2022
