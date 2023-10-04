@@ -10,6 +10,8 @@ My name is Luke Valenty. I am a Firmware Architect at Intel's Chipsets Silicon G
 - __C++Now__
   - Composition on Tiny Embedded Systems. https://youtu.be/MhTg9Jnwmms
   - Lightning Talk: Safe Arithmetic Library, any% speedrun. https://youtu.be/ua5esZZdpYY
+- __CppCon__
+  - Open Content Session: Safe Arithmetic, have your integer and add it to two! https://www.youtube.com/watch?v=E1LfLQ13bgA
 
 ### 2022
 - __emBO++__
