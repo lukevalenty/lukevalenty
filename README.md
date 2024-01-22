@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Luke Valenty. I am a Firmware Architect at Intel's Chipsets Silicon Group. I am passionate about programming, science, and technology. Lately I have been focusing on modern C++ for deeply embedded systems.
+My name is Luke Valenty. I am a Principal Engineer in Intel's design engineering group. I am passionate about programming, science, and technology. Lately I have been focusing on modern C++ for deeply embedded systems.
 
 ### Conference Talks
 
