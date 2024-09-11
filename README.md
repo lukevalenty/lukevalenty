@@ -4,6 +4,10 @@ My name is Luke Valenty. I am a Principal Engineer in Intel's design engineering
 
 ### Conference Talks
 
+### 2024
+- __C++Now__
+  - Zero-Cost Abstractions in C++ - High Performance Message Dispatch. https://youtu.be/DLgM570cujU
+
 ### 2023
 - __emBO++__
   - High Performance Message Dispatch in C++. https://youtu.be/ekunE70KF7U
